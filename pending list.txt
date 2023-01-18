@@ -1,0 +1,9 @@
+1. Responsive app for all screens  >>>>>> Done.
+2. Team animation -- The cards should be highlighted or be rised up   >>>>> Done 
+3. See, if you can do something with footer to make it better..Do not change the style
+4. Header neeeds to be fixed and content should pass under it..Currently header also scrolls with the content
+5. Make similar changes to Terms and Privacy policy page           >>>>>>> Done
+6. Also the font needs to be changed to the superhuman.com type.    >>>>>>>   Done 
+7. Fix FAQ section >> open only one at a time  >>>>> Done 
+8. Scroll to top btn.   >>> Done 
+9. Menu in ipad and mobile view.  
